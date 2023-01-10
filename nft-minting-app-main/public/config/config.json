@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d936900E669fbaD0A503015cBaF2183b3F5eD55",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mutant Island",
+  "SYMBOL": "M.I.",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 22000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutantisland-v2",
+  "SHOW_BACKGROUND": true
+}
